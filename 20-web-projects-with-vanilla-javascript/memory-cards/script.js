@@ -18,10 +18,9 @@ const cardsEl = [];
 
 
 // Store card data
-const cardsData = getCardsData();
+//const cardsData = getCardsData();
 
 
-/*
 const cardsData = [
     {
         question: 'What a variable must begin with?',
@@ -36,7 +35,7 @@ const cardsData = [
         answer: 'thisIsAVariable'
     }
 ];
-*/
+
 
 
 // Create all cards
